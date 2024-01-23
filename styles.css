@@ -1,0 +1,95 @@
+.cari{
+    width: 300%;
+    margin: 2rem;
+    size: 10%;
+    border-radius: 10px;
+    border: rgb(67, 67, 67);
+    background: #ffffff; 
+}
+
+.bar{
+    margin: 0 3rem 0 0 ;
+}
+
+.tekss {
+    position: absolute;
+    margin: 45rem 30rem 0 ;
+    text-align: center;
+    font-family: mytdFont;
+    color: #ffffff;
+    width: 50%;
+    font-size: large;
+    text-shadow: #000000;
+    
+}
+
+
+.teks{
+    position: absolute;
+    text-align: center;
+    margin: 18rem 45rem;
+    font-family: myscFont;
+      color: #000000;
+      font-size: 200%;
+
+      
+    
+}
+
+
+
+.seting {
+    margin: 27px 0rem 0 52rem;
+}   
+
+.Akun {
+    margin: 27px 3rem 0 0;
+    padding: 0 100rem 0 10;
+}
+
+
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('OpenSauceOne-Regular.woff2');
+  }
+
+@font-face {
+    font-family: myscFont;
+    src: url('Romans Story.otf');
+  }
+
+  @font-face {
+    font-family: mytdFont;
+    src: url('Vogue.ttf');
+  }
+
+body{
+    font-family: myFirstFont;
+}
+
+.jeruk{
+    text-align: center;
+    margin: 2rem;
+    font-family: myscFont;
+    font-size: 500%;
+}
+.navbar-brand{
+    margin: -4px 0 0 0;
+}
+
+.gambar{
+    width: 100%;
+  
+}
+
+.E {
+    font-family: myscFont;
+    margin: 2px;
+}
+
+.ccc {
+    margin: 1px;
+    
+}
+
